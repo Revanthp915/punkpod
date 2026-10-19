@@ -1,0 +1,6 @@
+.git
+.opencode
+node_modules
+coverage
+.env
+*.log

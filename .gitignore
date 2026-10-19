@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env*.example
+node_modules/
+dist/
+build/
+.DS_Store
+coverage/
+*.log
+*.db
+*.db-shm
+*.db-wal
+*.zip
+
+# Local OmniRush configuration and session attachments
+.opencode/
